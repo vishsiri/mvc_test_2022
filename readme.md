@@ -1,0 +1,3 @@
+## PASSWORD FOR ADMIN USER
+## USER : admin
+## PASSWORD : admin
